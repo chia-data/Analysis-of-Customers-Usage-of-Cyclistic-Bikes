@@ -1,0 +1,1019 @@
+"","start_station_name","member_casual","num_of_rides"
+"1","Streeter Dr & Grand Ave","casual",62659
+"2","Millennium Park","casual",29903
+"3","Michigan Ave & Oak St","casual",26910
+"4","Shedd Aquarium","casual",21998
+"5","DuSable Lake Shore Dr & Monroe St","casual",21760
+"6","Theater on the Lake","casual",19253
+"7","Wells St & Concord Ln","casual",18992
+"8","DuSable Lake Shore Dr & North Blvd","casual",18117
+"9","Wells St & Elm St","casual",15868
+"10","Clark St & Lincoln Ave","casual",15716
+"11","Clark St & Armitage Ave","casual",15408
+"12","Clark St & Elm St","casual",15188
+"13","Indiana Ave & Roosevelt Rd","casual",14878
+"14","Wabash Ave & Grand Ave","casual",14626
+"15","New St & Illinois St","casual",13976
+"16","Dusable Harbor","casual",13564
+"17","Michigan Ave & Lake St","casual",12722
+"18","Clark St & Newport St","casual",12714
+"19","Wilton Ave & Belmont Ave","casual",12598
+"20","Michigan Ave & Washington St","casual",12585
+"21","Michigan Ave & 8th St","casual",12333
+"22","Larrabee St & Webster Ave","casual",12288
+"23","Wells St & Evergreen Ave","casual",12023
+"24","LaSalle St & Illinois St","casual",11992
+"25","Broadway & Barry Ave","casual",11965
+"26","Dearborn St & Erie St","casual",11680
+"27","Montrose Harbor","casual",11445
+"28","Lakeview Ave & Fullerton Pkwy","casual",11362
+"29","Fairbanks Ct & Grand Ave","casual",11286
+"30","Wells St & Huron St","casual",11227
+"31","Damen Ave & Pierce Ave","casual",11147
+"32","Ashland Ave & Division St","casual",10816
+"33","Green St & Madison St","casual",10655
+"34","Halsted St & Roscoe St","casual",10610
+"35","Clark St & Wrightwood Ave","casual",10598
+"36","St. Clair St & Erie St","casual",10491
+"37","Buckingham Fountain","casual",10283
+"38","Sheffield Ave & Waveland Ave","casual",10273
+"39","Lincoln Ave & Fullerton Ave","casual",10259
+"40","Clark St & Drummond Pl","casual",9947
+"41","Lake Shore Dr & North Blvd","casual",9900
+"42","Lake Shore Dr & Monroe St","casual",9725
+"43","Kingsbury St & Kinzie St","casual",9642
+"44","Adler Planetarium","casual",9470
+"45","Dearborn Pkwy & Delaware Pl","casual",9360
+"46","Green St & Randolph St","casual",9221
+"47","Wabash Ave & Roosevelt Rd","casual",9211
+"48","State St & Kinzie St","casual",9184
+"49","Wells St & Hubbard St","casual",9159
+"50","Clark St & Schiller St","casual",9124
+"51","Wabash Ave & Wacker Pl","casual",9119
+"52","State St & Randolph St","casual",9030
+"53","Columbus Dr & Randolph St","casual",9000
+"54","Rush St & Cedar St","casual",8909
+"55","Morgan St & Lake St","casual",8898
+"56","Southport Ave & Roscoe St","casual",8781
+"57","Clark St & Grace St","casual",8744
+"58","Lincoln Park Conservatory","casual",8675
+"59","Desplaines St & Kinzie St","casual",8600
+"60","Halsted St & Wrightwood Ave","casual",8534
+"61","Broadway & Cornelia Ave","casual",8429
+"62","Wilton Ave & Diversey Pkwy","casual",8230
+"63","Bissell St & Armitage Ave","casual",8174
+"64","Federal St & Polk St","casual",8170
+"65","Rush St & Superior St","casual",8158
+"66","Stockton Dr & Wrightwood Ave","casual",8156
+"67","Sheffield Ave & Wrightwood Ave","casual",7946
+"68","Broadway & Waveland Ave","casual",7913
+"69","Pine Grove Ave & Waveland Ave","casual",7874
+"70","Milwaukee Ave & Grand Ave","casual",7840
+"71","Michigan Ave & Jackson Blvd","casual",7788
+"72","Clark St & Wellington Ave","casual",7777
+"73","Sheffield Ave & Wellington Ave","casual",7724
+"74","DuSable Lake Shore Dr & Belmont Ave","casual",7715
+"75","Halsted St & Dickens Ave","casual",7710
+"76","Sedgwick St & North Ave","casual",7703
+"77","Franklin St & Jackson Blvd","casual",7697
+"78","Clinton St & Madison St","casual",7582
+"79","Southport Ave & Waveland Ave","casual",7582
+"80","Halsted St & Clybourn Ave","casual",7575
+"81","McClurg Ct & Erie St","casual",7546
+"82","Sheffield Ave & Webster Ave","casual",7512
+"83","Wabash Ave & 9th St","casual",7501
+"84","Wood St & Milwaukee Ave","casual",7444
+"85","Mies van der Rohe Way & Chestnut St","casual",7441
+"86","Sheffield Ave & Fullerton Ave","casual",7382
+"87","Broadway & Belmont Ave","casual",7250
+"88","DuSable Lake Shore Dr & Diversey Pkwy","casual",7185
+"89","Racine Ave & Belmont Ave","casual",7180
+"90","Kedzie Ave & Milwaukee Ave","casual",6990
+"91","Lakefront Trail & Bryn Mawr Ave","casual",6968
+"92","Michigan Ave & Pearson St","casual",6930
+"93","Clark St & North Ave","casual",6815
+"94","DuSable Lake Shore Dr & Wellington Ave","casual",6804
+"95","Sedgwick St & Webster Ave","casual",6669
+"96","Clark St & Lake St","casual",6668
+"97","Franklin St & Illinois St","casual",6649
+"98","Field Museum","casual",6565
+"99","Cityfront Plaza Dr & Pioneer Ct","casual",6564
+"100","Southport Ave & Wrightwood Ave","casual",6516
+"101","Orleans St & Merchandise Mart Plaza","casual",6489
+"102","Daley Center Plaza","casual",6441
+"103","Michigan Ave & Madison St","casual",6382
+"104","California Ave & Milwaukee Ave","casual",6333
+"105","Ritchie Ct & Banks St","casual",6333
+"106","Field Blvd & South Water St","casual",6314
+"107","LaSalle Dr & Huron St","casual",6304
+"108","Dearborn St & Monroe St","casual",6265
+"109","Mies van der Rohe Way & Chicago Ave","casual",6224
+"110","Clark St & Chicago Ave","casual",6171
+"111","Lincoln Ave & Diversey Pkwy","casual",6162
+"112","Kingsbury St & Erie St","casual",6159
+"113","DuSable Lake Shore Dr & Ohio St","casual",6148
+"114","Damen Ave & Cortland St","casual",6093
+"115","Pine Grove Ave & Irving Park Rd","casual",6087
+"116","Stetson Ave & South Water St","casual",5973
+"117","Broadway & Sheridan Rd","casual",5963
+"118","Shore Dr & 55th St","casual",5890
+"119","Sheridan Rd & Montrose Ave","casual",5836
+"120","Sheridan Rd & Irving Park Rd","casual",5821
+"121","Honore St & Division St","casual",5817
+"122","Southport Ave & Wellington Ave","casual",5766
+"123","Clark St & Randolph St","casual",5765
+"124","Milwaukee Ave & Wabansia Ave","casual",5705
+"125","Franklin St & Lake St","casual",5692
+"126","Canal St & Adams St","casual",5678
+"127","Clinton St & Lake St","casual",5570
+"128","Wentworth Ave & Cermak Rd","casual",5565
+"129","Dayton St & North Ave","casual",5558
+"130","Greenview Ave & Fullerton Ave","casual",5518
+"131","Burling St & Diversey Pkwy","casual",5489
+"132","Wells St & Polk St","casual",5470
+"133","Fort Dearborn Dr & 31st St","casual",5434
+"134","Clinton St & Washington Blvd","casual",5399
+"135","Peoria St & Jackson Blvd","casual",5313
+"136","Michigan Ave & 14th St","casual",5257
+"137","Damen Ave & Chicago Ave","casual",5178
+"138","Ogden Ave & Chicago Ave","casual",5154
+"139","Desplaines St & Randolph St","casual",5153
+"140","Southport Ave & Belmont Ave","casual",5145
+"141","Clark St & Winnemac Ave","casual",5087
+"142","Burnham Harbor","casual",5082
+"143","Damen Ave & Division St","casual",5001
+"144","Sheffield Ave & Kingsbury St","casual",4957
+"145","Racine Ave & Fullerton Ave","casual",4945
+"146","Ashland Ave & Blackhawk St","casual",4933
+"147","Michigan Ave & Ida B Wells Dr","casual",4928
+"148","Wabash Ave & Adams St","casual",4907
+"149","Clarendon Ave & Gordon Ter","casual",4879
+"150","Franklin St & Chicago Ave","casual",4862
+"151","Kimbark Ave & 53rd St","casual",4846
+"152","State St & Pearson St","casual",4835
+"153","Clarendon Ave & Junior Ter","casual",4808
+"154","Larrabee St & Division St","casual",4779
+"155","Larrabee St & Kingsbury St","casual",4742
+"156","Orleans St & Chestnut St (NEXT Apts)","casual",4679
+"157","Sheffield Ave & Willow St","casual",4659
+"158","Western Ave & Winnebago Ave","casual",4642
+"159","Southport Ave & Clybourn Ave","casual",4626
+"160","Carpenter St & Huron St","casual",4619
+"161","University Ave & 57th St","casual",4618
+"162","Lincoln Ave & Roscoe St","casual",4596
+"163","Ravenswood Ave & Lawrence Ave","casual",4589
+"164","Cannon Dr & Fullerton Ave","casual",4585
+"165","State St & Harrison St","casual",4575
+"166","Ellis Ave & 60th St","casual",4548
+"167","Halsted St & Willow St","casual",4492
+"168","Franklin St & Monroe St","casual",4488
+"169","Clark St & Berwyn Ave","casual",4452
+"170","Paulina Ave & North Ave","casual",4404
+"171","Canal St & Madison St","casual",4354
+"172","Larrabee St & Armitage Ave","casual",4347
+"173","Eckhart Park","casual",4330
+"174","Lincoln Ave & Belmont Ave","casual",4308
+"175","Lakefront Trail & Wilson Ave","casual",4303
+"176","Clifton Ave & Armitage Ave","casual",4279
+"177","Sedgwick St & Huron St","casual",4220
+"178","Sangamon St & Washington Blvd","casual",4076
+"179","Aberdeen St & Randolph St","casual",4054
+"180","Rush St & Hubbard St","casual",4051
+"181","Marine Dr & Ainslie St","casual",4015
+"182","Broadway & Wilson - Truman College Vaccination Site","casual",3990
+"183","Franklin St & Adams St (Temp)","casual",3894
+"184","Clinton St & Jackson Blvd","casual",3886
+"185","Calumet Ave & 18th St","casual",3818
+"186","Clark St & Leland Ave","casual",3814
+"187","Ogden Ave & Race Ave","casual",3811
+"188","State St & Van Buren St","casual",3762
+"189","Walsh Park","casual",3756
+"190","Aberdeen St & Monroe St","casual",3755
+"191","Lake Shore Dr & Ohio St","casual",3724
+"192","Michigan Ave & 18th St","casual",3696
+"193","Aberdeen St & Jackson Blvd","casual",3695
+"194","Damen Ave & Thomas St (Augusta Blvd)","casual",3666
+"195","Wells St & Walton St","casual",3666
+"196","Dearborn St & Adams St","casual",3633
+"197","Ashland Ave & Chicago Ave","casual",3631
+"198","Western Ave & Walton St","casual",3604
+"199","Noble St & Milwaukee Ave","casual",3601
+"200","Dearborn St & Van Buren St","casual",3594
+"201","McCormick Place","casual",3558
+"202","Broadway & Argyle St","casual",3545
+"203","Elston Ave & Cortland St","casual",3534
+"204","Greenview Ave & Diversey Pkwy","casual",3484
+"205","Humboldt Blvd & Armitage Ave","casual",3430
+"206","Clinton St & Roosevelt Rd","casual",3415
+"207","Sheridan Rd & Buena Ave","casual",3407
+"208","Campbell Ave & North Ave","casual",3406
+"209","LaSalle St & Washington St","casual",3370
+"210","Orleans St & Hubbard St","casual",3348
+"211","Lake Shore Dr & Diversey Pkwy","casual",3337
+"212","Leavitt St & North Ave","casual",3311
+"213","Racine Ave & Wrightwood Ave","casual",3308
+"214","LaSalle St & Jackson Blvd","casual",3302
+"215","Desplaines St & Jackson Blvd","casual",3286
+"216","Cornell Ave & Hyde Park Blvd","casual",3280
+"217","Wabash Ave & 16th St","casual",3280
+"218","Delano Ct & Roosevelt Rd","casual",3258
+"219","Lake Shore Dr & Belmont Ave","casual",3258
+"220","Larrabee St & North Ave","casual",3258
+"221","Ashland Ave & Wrightwood Ave","casual",3253
+"222","Damen Ave & Charleston St","casual",3184
+"223","Lake Park Ave & 53rd St","casual",3176
+"224","Ada St & Washington Blvd","casual",3164
+"225","Museum of Science and Industry","casual",3101
+"226","Ashland Ave & Grace St","casual",3095
+"227","Broadway & Granville Ave","casual",3093
+"228","Fairbanks St & Superior St","casual",3081
+"229","Ellis Ave & 55th St","casual",3059
+"230","Ashland Ave & Grand Ave","casual",3009
+"231","Racine Ave & 18th St","casual",3009
+"232","Logan Blvd & Elston Ave","casual",3001
+"233","Broadway & Berwyn Ave","casual",2987
+"234","Jefferson St & Monroe St","casual",2980
+"235","Clarendon Ave & Leland Ave","casual",2976
+"236","Halsted St & Maxwell St","casual",2947
+"237","Lake Shore Dr & Wellington Ave","casual",2941
+"238","900 W Harrison St","casual",2913
+"239","Ashland Ave & Lake St","casual",2891
+"240","Southport Ave & Irving Park Rd","casual",2891
+"241","Broadway & Thorndale Ave","casual",2865
+"242","Winthrop Ave & Lawrence Ave","casual",2842
+"243","Western Ave & Division St","casual",2807
+"244","Clark St & Bryn Mawr Ave","casual",2804
+"245","Canal St & Monroe St","casual",2766
+"246","Wood St & Chicago Ave","casual",2765
+"247","Loomis St & Lexington St","casual",2757
+"248","Wacker Dr & Washington St","casual",2754
+"249","Sheridan Rd & Noyes St (NU)","casual",2738
+"250","Seeley Ave & Roscoe St","casual",2729
+"251","Clark St & 9th St (AMLI)","casual",2713
+"252","Broadway & Ridge Ave","casual",2691
+"253","Ashland Ave & Augusta Blvd","casual",2690
+"254","Chicago Ave & Sheridan Rd","casual",2676
+"255","Sedgwick St & Schiller St","casual",2651
+"256","California Ave & Cortez St","casual",2643
+"257","Blue Island Ave & 18th St","casual",2620
+"258","Financial Pl & Ida B Wells Dr","casual",2594
+"259","Leavitt St & Armitage Ave","casual",2591
+"260","Damen Ave & Grand Ave","casual",2590
+"261","Sheridan Rd & Lawrence Ave","casual",2516
+"262","Benson Ave & Church St","casual",2515
+"263","Western Ave & Leland Ave","casual",2511
+"264","California Ave & North Ave","casual",2510
+"265","Albany Ave & Bloomingdale Ave","casual",2501
+"266","Woodlawn Ave & 55th St","casual",2463
+"267","Spaulding Ave & Armitage Ave","casual",2452
+"268","LaSalle St & Adams St","casual",2448
+"269","Damen Ave & Wellington Ave","casual",2436
+"270","California Ave & Francis Pl (Temp)","casual",2421
+"271","May St & Taylor St","casual",2409
+"272","Larrabee St & Oak St","casual",2407
+"273","Canal St & Taylor St","casual",2403
+"274","Clybourn Ave & Division St","casual",2401
+"275","Clark St & Montrose Ave","casual",2388
+"276","Lake Park Ave & 56th St","casual",2366
+"277","Racine Ave & Randolph St","casual",2363
+"278","Wood St & Augusta Blvd","casual",2355
+"279","Stave St & Armitage Ave","casual",2348
+"280","Milwaukee Ave & Rockwell St","casual",2320
+"281","Morgan St & 18th St","casual",2238
+"282","Calumet Ave & 21st St","casual",2226
+"283","Lincoln Ave & Belle Plaine Ave","casual",2217
+"284","Orleans St & Elm St","casual",2211
+"285","Kedzie Ave & Palmer Ct","casual",2210
+"286","Elizabeth (May) St & Fulton St","casual",2199
+"287","Ashland Ave & Wellington Ave","casual",2194
+"288","Sheridan Rd & Loyola Ave","casual",2190
+"289","Halsted St & Polk St","casual",2187
+"290","California Ave & Division St","casual",2160
+"291","Canal St & Jackson Blvd","casual",2154
+"292","Loomis St & Jackson Blvd","casual",2126
+"293","Racine Ave & Washington Blvd","casual",2125
+"294","California Ave & Altgeld St","casual",2117
+"295","Larrabee St & Menomonee St","casual",2097
+"296","Wabash Ave & Cermak Rd","casual",2079
+"297","Lake Park Ave & 35th St","casual",2078
+"298","Leavitt St & Chicago Ave","casual",2069
+"299","Blackstone Ave & Hyde Park Blvd","casual",2061
+"300","Damen Ave & Clybourn Ave","casual",2019
+"301","Leavitt St & Belmont Ave","casual",1989
+"302","Ravenswood Ave & Irving Park Rd","casual",1961
+"303","Leavitt St & Division St","casual",1957
+"304","Damen Ave & Melrose Ave","casual",1943
+"305","Morgan St & Polk St","casual",1923
+"306","Wood St & Hubbard St","casual",1887
+"307","Clark St & Ida B Wells Dr","casual",1886
+"308","Paulina St & Flournoy St","casual",1862
+"309","Lincoln Ave & Waveland Ave","casual",1860
+"310","Paulina St & 18th St","casual",1860
+"311","Damen Ave & Leland Ave","casual",1836
+"312","Lincoln Ave & Sunnyside Ave","casual",1822
+"313","Ellis Ave & 53rd St","casual",1812
+"314","Wolcott (Ravenswood) Ave & Montrose Ave","casual",1781
+"315","Campbell Ave & Fullerton Ave","casual",1780
+"316","California Ave & Fletcher St","casual",1774
+"317","Troy St & North Ave","casual",1774
+"318","Lincoln Ave & Addison St","casual",1758
+"319","Central Park Ave & Bloomingdale Ave","casual",1734
+"320","Damen Ave & Foster Ave","casual",1724
+"321","Winchester Ave & Elston Ave","casual",1714
+"322","N Green St & W Lake St","casual",1689
+"323","Ellis Ave & 58th St","casual",1680
+"324","Glenwood Ave & Morse Ave","casual",1674
+"325","McClurg Ct & Ohio St","casual",1660
+"326","Damen Ave & Madison St","casual",1632
+"327","MLK Jr Dr & 29th St","casual",1615
+"328","Wolcott Ave & Polk St","casual",1540
+"329","Elston Ave & Wabansia Ave","casual",1526
+"330","State St & 19th St","casual",1520
+"331","Throop St & Taylor St","casual",1507
+"332","St. Louis Ave & Fullerton Ave","casual",1505
+"333","Racine Ave & Congress Pkwy","casual",1504
+"334","Ashland Ave & Belle Plaine Ave","casual",1499
+"335","Wells St & 19th St","casual",1477
+"336","Sheridan Rd & Columbia Ave","casual",1469
+"337","Southport Ave & Clark St","casual",1447
+"338","University Library (NU)","casual",1428
+"339","State St & 33rd St","casual",1420
+"340","Damen Ave & Walnut (Lake) St","casual",1417
+"341","Racine Ave & 15th St","casual",1378
+"342","Talman Ave & Addison St","casual",1371
+"343","Chicago Ave & Washington St","casual",1357
+"344","Claremont Ave & Hirsch St","casual",1357
+"345","Emerald Ave & 31st St","casual",1353
+"346","Paulina St & Montrose Ave","casual",1325
+"347","Lake Park Ave & 47th St","casual",1321
+"348","Damen Ave & Cullerton St","casual",1316
+"349","Laflin St & Cullerton St","casual",1291
+"350","Richmond St & Diversey Ave","casual",1277
+"351","Clark St & Elmdale Ave","casual",1275
+"352","Clinton St & Tilden St","casual",1273
+"353","Damen Ave & Sunnyside Ave","casual",1262
+"354","Halsted St & Roosevelt Rd","casual",1258
+"355","Morgan St & 31st St","casual",1252
+"356","Rhodes Ave & 32nd St","casual",1249
+"357","Kimball Ave & Belmont Ave","casual",1230
+"358","Kosciuszko Park","casual",1228
+"359","Leavitt St & Addison St","casual",1223
+"360","Harper Ave & 59th St","casual",1202
+"361","63rd St Beach","casual",1200
+"362","W Oakdale Ave & N Broadway","casual",1195
+"363","California Ave & Montrose Ave","casual",1182
+"364","Avers Ave & Belmont Ave","casual",1178
+"365","Western Ave & Roscoe St","casual",1157
+"366","Halsted St & 21st St","casual",1154
+"367","State St & Chicago Ave","casual",1144
+"368","Central Park Ave & Elbridge Ave","casual",1142
+"369","Clark St & Schreiber Ave","casual",1139
+"370","Ravenswood Ave & Berteau Ave","casual",1136
+"371","Spaulding Ave & Division St","casual",1135
+"372","California Ave & Byron St","casual",1110
+"373","Clinton St & 18th St","casual",1109
+"374","Western Ave & Congress Pkwy","casual",1100
+"375","Washtenaw Ave & Lawrence Ave","casual",1099
+"376","Sheridan Rd & Greenleaf Ave","casual",1089
+"377","State St & 35th St","casual",1083
+"378","Troy St & Elston Ave","casual",1068
+"379","Greenwood Ave & 47th St","casual",1065
+"380","Halsted St & North Branch St","casual",1063
+"381","Oakley Ave & Irving Park Rd","casual",1062
+"382","Morgan Ave & 14th Pl","casual",1056
+"383","Canal St & Harrison St","casual",1054
+"384","Leavitt St & Lawrence Ave","casual",1042
+"385","Western Ave & Fillmore St","casual",1039
+"386","Clark St & Lunt Ave","casual",1029
+"387","Paulina St & Howard St","casual",1010
+"388","Indiana Ave & 31st St","casual",1009
+"389","Malcolm X College Vaccination Site","casual",1005
+"390","Wood St & Taylor St (Temp)","casual",1005
+"391","May St & Cullerton St","casual",991
+"392","Wentworth Ave & 24th St (Temp)","casual",988
+"393","Lincoln Ave & Winona St","casual",985
+"394","Wentworth Ave & 35th St","casual",964
+"395","Greenview Ave & Jarvis Ave","casual",958
+"396","Cottage Grove Ave & Oakwood Blvd","casual",944
+"397","Avondale Ave & Irving Park Rd","casual",933
+"398","Indiana Ave & 26th St","casual",921
+"399","Smith Park","casual",921
+"400","Hoyne Ave & Balmoral Ave","casual",910
+"401","Halsted St & Archer Ave","casual",907
+"402","Halsted St & 35th St","casual",905
+"403","Artesian Ave & Hubbard St","casual",901
+"404","Glenwood Ave & Touhy Ave","casual",895
+"405","Wentworth Ave & 33rd St","casual",884
+"406","Francisco Ave & Foster Ave","casual",876
+"407","Rockwell St & Eastwood Ave","casual",870
+"408","Central Park Ave & North Ave","casual",864
+"409","Calumet Ave & 33rd St","casual",842
+"410","Albany Ave & Montrose Ave","casual",839
+"411","South Shore Dr & 71st St","casual",825
+"412","Western Ave & Monroe St","casual",822
+"413","Evanston Civic Center","casual",820
+"414","Halsted St & 18th St (Temp)","casual",802
+"415","Winchester (Ravenswood) Ave & Balmoral Ave","casual",791
+"416","Damen Ave & Wabansia Ave","casual",789
+"417","Monticello Ave & Irving Park Rd","casual",782
+"418","Woodlawn Ave & Lake Park Ave","casual",781
+"419","Campbell Ave & Montrose Ave","casual",779
+"420","Christiana Ave & Lawrence Ave","casual",776
+"421","Eastlake Ter & Rogers Ave","casual",776
+"422","MLK Jr Dr & Pershing Rd","casual",772
+"423","Ogden Ave & Congress Pkwy","casual",772
+"424","Prairie Ave & Garfield Blvd","casual",759
+"425","Clark St & Columbia Ave","casual",754
+"426","Halsted St & 18th St","casual",748
+"427","Calumet Ave & 35th St","casual",739
+"428","Western Ave & 21st St","casual",735
+"429","Calumet Ave & 51st St","casual",734
+"430","South Shore Dr & 67th St","casual",719
+"431","Ogden Ave & Roosevelt Rd","casual",717
+"432","Wallace St & 35th St","casual",717
+"433","Warren Park West","casual",716
+"434","Cherry Ave & Blackhawk St","casual",715
+"435","Kedzie Ave & Leland Ave","casual",714
+"436","Western Ave & Granville Ave","casual",702
+"437","Cottage Grove Ave & 47th St","casual",669
+"438","Sawyer Ave & Irving Park Rd","casual",664
+"439","Keystone Ave & Fullerton Ave","casual",657
+"440","Cottage Grove Ave & 51st St","casual",656
+"441","Central St Metra","casual",640
+"442","Ashland Ave & 13th St","casual",635
+"443","Emerald Ave & 28th St","casual",635
+"444","Racine Ave & 13th St","casual",630
+"445","Clinton St & Polk St","casual",624
+"446","Prairie Ave & 43rd St","casual",621
+"447","Shields Ave & 31st St","casual",619
+"448","W Armitage Ave & N Sheffield Ave","casual",616
+"449","California Ave & 21st St","casual",614
+"450","Bernard St & Elston Ave","casual",610
+"451","Conservatory Dr & Lake St","casual",610
+"452","Manor Ave & Leland Ave","casual",605
+"453","MLK Jr Dr & 47th St","casual",598
+"454","Kedzie Ave & Foster Ave","casual",594
+"455","Dorchester Ave & 49th St","casual",592
+"456","Shields Ave & 28th Pl","casual",584
+"457","Central St & Girard Ave","casual",582
+"458","Cottage Grove Ave & 63rd St","casual",578
+"459","Ashland Ave & Archer Ave","casual",575
+"460","Dorchester Ave & 63rd St","casual",572
+"461","Washtenaw Ave & Ogden Ave","casual",563
+"462","Morgan St & Lake St*","casual",561
+"463","California Ave & Lake St","casual",554
+"464","Racine Ave & 35th St","casual",543
+"465","State St & 95th St","casual",540
+"466","Loomis St & Archer Ave","casual",535
+"467","Austin Blvd & Lake St","casual",534
+"468","N Sheffield Ave & W Wellington Ave","casual",533
+"469","Western Ave & Lunt Ave","casual",529
+"470","Hampden Ct & Diversey Ave","casual",524
+"471","Keystone Ave & Montrose Ave","casual",524
+"472","Budlong Woods Library","casual",522
+"473","Drake Ave & Montrose Ave","casual",520
+"474","Valli Produce - Evanston Plaza","casual",519
+"475","Kedzie Ave & Lake St","casual",510
+"476","Drake Ave & Addison St","casual",501
+"477","Warren Park East","casual",499
+"478","Kedzie Ave & Bryn Mawr Ave","casual",479
+"479","Green St & Randolph St*","casual",471
+"480","Bissell St & Armitage Ave*","casual",470
+"481","Eberhart Ave & 61st St","casual",470
+"482","DuSable Museum","casual",469
+"483","Hermitage Ave & Polk St","casual",468
+"484","Cottage Grove Ave & 43rd St","casual",448
+"485","2112 W Peterson Ave","casual",440
+"486","Leavitt St & Archer Ave","casual",440
+"487","Western Ave & Howard St","casual",440
+"488","Elmwood Ave & Austin St","casual",435
+"489","Central Park Ave & Ogden Ave","casual",433
+"490","Jeffery Blvd & 67th St","casual",426
+"491","Ridge Blvd & Touhy Ave","casual",421
+"492","St. Louis Ave & Balmoral Ave","casual",418
+"493","Wood St & 35th St","casual",410
+"494","Clark St & Touhy Ave","casual",403
+"495","Maplewood Ave & Peterson Ave","casual",403
+"496","Kedzie Ave & Chicago Ave","casual",388
+"497","State St & 29th St","casual",380
+"498","Milwaukee Ave & Cuyler Ave","casual",373
+"499","Knox Ave & Montrose Ave","casual",368
+"500","Milwaukee Ave & Fullerton Ave","casual",368
+"501","Normal Ave & Archer Ave","casual",366
+"502","Dodge Ave & Church St","casual",360
+"503","Pulaski Rd & Eddy St (Temp)","casual",357
+"504","Bosworth Ave & Howard St","casual",353
+"505","Ridge Blvd & Howard St","casual",346
+"506","Fairfield Ave & Roosevelt Rd","casual",343
+"507","Western Ave & 24th St","casual",343
+"508","Calumet Park","casual",340
+"509","Long & Irving Park","casual",338
+"510","Stony Island Ave & 64th St","casual",335
+"511","Princeton Ave & 47th St","casual",332
+"512","Clark St & Jarvis Ave","casual",331
+"513","Stony Island Ave & 71st St","casual",329
+"514","Oakley Ave & Touhy Ave","casual",327
+"515","Damen Ave & Coulter St","casual",326
+"516","Halsted St & 37th St","casual",319
+"517","State St & 79th St","casual",316
+"518","Wentworth Ave & 63rd St","casual",314
+"519","South Shore Dr & 74th St","casual",313
+"520","Narragansett & Wrightwood","casual",312
+"521","Cornell Dr & Hayes Dr","casual",311
+"522","N Southport Ave & W Newport Ave","casual",310
+"523","Halsted St & 47th Pl","casual",306
+"524","Kildare Ave & Montrose Ave","casual",305
+"525","Indiana Ave & 40th St","casual",296
+"526","Wabash Ave & 87th St","casual",296
+"527","Stony Island Ave & 67th St","casual",294
+"528","Kedzie Ave & Roosevelt Rd","casual",293
+"529","Wolcott Ave & Fargo Ave","casual",286
+"530","Western Blvd & 48th Pl","casual",284
+"531","Dodge Ave & Mulford St","casual",281
+"532","MLK Jr Dr & 63rd St","casual",281
+"533","Walden Pkwy & 100th St","casual",278
+"534","Western Ave & 111th St","casual",277
+"535","Millard Ave & 26th St","casual",275
+"536","Archer (Damen) Ave & 37th St","casual",274
+"537","MLK Jr Dr & 56th St","casual",274
+"538","Lincoln Ave & Roscoe St*","casual",266
+"539","N Carpenter St & W Lake St","casual",263
+"540","Jeffery Blvd & 71st St","casual",262
+"541","Central Ave & Lake St","casual",259
+"542","Kedzie Ave & 21st St","casual",255
+"543","Lamon Ave & Armitage Ave","casual",255
+"544","Kedzie Ave & 48th Pl","casual",253
+"545","Princeton Ave & Garfield Blvd","casual",253
+"546","Damen Ave & Pershing Rd","casual",247
+"547","Kilbourn Ave & Irving Park Rd","casual",240
+"548","California Ave & 23rd Pl","casual",238
+"549","Prospect Sq & 91st St","casual",237
+"550","Kostner Ave & Wrightwood Ave","casual",236
+"551","Cottage Grove Ave & 67th St","casual",235
+"552","Phillips Ave & 79th St","casual",235
+"553","Stony Island Ave & 75th St","casual",234
+"554","Chicago State University","casual",232
+"555","State St & 123rd St","casual",232
+"556","Dodge Ave & Main St","casual",231
+"557","Lincolnwood Dr & Central St","casual",227
+"558","Base - 2132 W Hubbard Warehouse","casual",221
+"559","Western Ave & 104th St","casual",217
+"560","Dauphin Ave & 87th St","casual",216
+"561","Rainbow Beach","casual",216
+"562","Hoyne Ave & 47th St","casual",215
+"563","Austin Blvd & Madison St","casual",213
+"564","Eggleston Ave & 92nd St","casual",212
+"565","Hale Ave & 107th St","casual",212
+"566","Cicero Ave & Lake St","casual",210
+"567","Union Ave & Root St","casual",207
+"568","Harlem & Irving Park","casual",199
+"569","Greenwood Ave & 97th St","casual",198
+"570","Kilbourn Ave & Milwaukee Ave","casual",196
+"571","Loomis St & 89th St","casual",194
+"572","Lamon Ave & Belmont Ave","casual",190
+"573","Lawndale Ave & 111th St","casual",189
+"574","Kilpatrick Ave & Parker Ave","casual",187
+"575","Stewart Ave & 83rd St","casual",183
+"576","Lockwood Ave & Wrightwood Ave","casual",177
+"577","Yates Blvd & 75th St","casual",177
+"578","Big Marsh Park","casual",176
+"579","Halsted & 63rd - Kennedy-King Vaccination Site","casual",176
+"580","Perry Ave & 69th St","casual",175
+"581","Pulaski Rd & Lake St","casual",175
+"582","Stony Island Ave & 90th St","casual",175
+"583","Cottage Grove Ave & 83rd St","casual",174
+"584","Major Taylor Trail & 115th St","casual",174
+"585","Pulaski Rd & 51st St","casual",173
+"586","Austin Blvd & Chicago Ave","casual",172
+"587","Burnham Greenway & 105th St","casual",172
+"588","Rockwell St & Fletcher St","casual",171
+"589","Homewood Ave & 115th St","casual",169
+"590","Mulligan Ave & Wellington Ave","casual",169
+"591","Cottage Grove Ave & 71st St","casual",167
+"592","Kedzie Ave & Harrison St","casual",166
+"593","Albany Ave & 26th St","casual",165
+"594","Central Ave & Harrison St","casual",165
+"595","Ashland Ave & McDowell Ave","casual",164
+"596","Pulaski Rd & Congress Pkwy","casual",164
+"597","W 103rd St & S Avers Ave","casual",164
+"598","Kilbourn & Roscoe","casual",163
+"599","Ashland Ave & Pershing Rd","casual",162
+"600","Long Ave & Belmont Ave","casual",162
+"601","Elizabeth St & 92nd St","casual",161
+"602","State St & 54th St","casual",161
+"603","Vernon Ave & 79th St","casual",161
+"604","Central Ave & Chicago Ave","casual",160
+"605","Laramie Ave & Kinzie St","casual",159
+"606","Ashland Ave & 63rd St","casual",158
+"607","Kilbourn & Belden","casual",158
+"608","Lavergne & Fullerton","casual",157
+"609","Loomis Blvd & 84th St","casual",157
+"610","Ellis Ave & 83rd St","casual",155
+"611","Stony Island Ave & 82nd St","casual",153
+"612","Central Park Blvd & 5th Ave","casual",152
+"613","May St & 69th St","casual",152
+"614","Long Ave & Belden Ave","casual",150
+"615","Vernon Ave & 75th St","casual",149
+"616","California Ave & 26th St","casual",148
+"617","Central Ave & Parker Ave","casual",148
+"618","Mason Ave & Belmont Ave","casual",148
+"619","Pulaski Rd & 21st St","casual",146
+"620","Cottage Grove Ave & 111th Pl","casual",145
+"621","Halsted St & 111th St","casual",144
+"622","Jeffery Blvd & 76th St","casual",144
+"623","Meade Ave & Addison St","casual",144
+"624","Exchange Ave & 79th St","casual",140
+"625","Cottage Grove Ave & 78th St","casual",139
+"626","Sacramento Blvd & Franklin Blvd","casual",139
+"627","Halsted St & 104th St","casual",138
+"628","Oak Park & Wellington","casual",135
+"629","Ashland Ave & 74th St","casual",134
+"630","Narragansett Ave & School St","casual",134
+"631","Marquette Ave & 89th St","casual",133
+"632","Stewart Ave & 63rd St","casual",133
+"633","Central Park Ave & 24th St","casual",132
+"634","Eberhart Ave & 91st St","casual",132
+"635","Ashland Ave & 78th St","casual",131
+"636","Troy St & Grace St","casual",131
+"637","Baltimore Ave & 87th St","casual",130
+"638","Laramie Ave & Madison St","casual",128
+"639","Central Ave & Roscoe St","casual",127
+"640","Commercial Ave & 130th St","casual",127
+"641","N Paulina St & Lincoln Ave","casual",126
+"642","Stony Island Ave & South Chicago Ave","casual",126
+"643","Ewing Ave & Burnham Greenway","casual",125
+"644","Marshfield Ave & 44th St","casual",125
+"645","Kedzie Ave & 24th St","casual",123
+"646","Halsted St & 96th St","casual",122
+"647","Narragansett & Irving Park","casual",122
+"648","State St & Pershing Rd","casual",120
+"649","Latrobe Ave & Chicago Ave","casual",119
+"650","Greenwood Ave & 79th St","casual",118
+"651","Homan Ave & Fillmore St","casual",118
+"652","Meade Ave & Diversey Ave","casual",117
+"653","Racine Ave & Garfield Blvd","casual",117
+"654","Tripp Ave & 31st St","casual",117
+"655","Altgeld Gardens","casual",116
+"656","Morgan St & Pershing Rd","casual",115
+"657","Vincennes Ave & 75th St","casual",115
+"658","Damen Ave & 59th St","casual",113
+"659","W Washington Blvd & N Peoria St","casual",113
+"660","Clyde Ave & 87th St","casual",111
+"661","Rockwell St & Archer Ave","casual",109
+"662","Vincennes Ave & 104th St","casual",109
+"663","Ashland Ave & 50th St","casual",108
+"664","Central Park Ave & Douglas Blvd","casual",108
+"665","Kostner Ave & Lake St","casual",107
+"666","Avenue O & 118th St","casual",106
+"667","Eggleston Ave & 69th St","casual",106
+"668","Karlov Ave & Madison St","casual",106
+"669","Kedzie Ave & 110th St","casual",106
+"670","Michigan Ave & 71st St","casual",106
+"671","Commercial Ave & 83rd St","casual",105
+"672","Halsted St & 78th St","casual",103
+"673","Elston Ave & George St","casual",102
+"674","Houston Ave & 92nd St","casual",102
+"675","Kedzie Ave & 52nd St","casual",102
+"676","Komensky Ave & 31st St","casual",102
+"677","Yates Blvd & 93rd St","casual",102
+"678","East End Ave & 87th St","casual",101
+"679","Kedzie Ave & George St","casual",101
+"680","Western Ave & Gunnison St","casual",101
+"681","Constance Ave & 95th St","casual",100
+"682","Halsted St & 73rd St","casual",100
+"683","Kedzie Ave & 57th St","casual",100
+"684","Orange & Addison","casual",100
+"685","Vernon Ave & 107th St","casual",100
+"686","Central Ave & Madison St","casual",99
+"687","Dauphin Ave & 103rd St","casual",99
+"688","Nordica & Medill","casual",98
+"689","Indiana Ave & 103rd St","casual",97
+"690","Oketo Ave & Addison St","casual",97
+"691","Oglesby Ave & 100th St","casual",96
+"692","Halsted St & 51st St","casual",95
+"693","Lawndale Ave & 30th St","casual",95
+"694","Spaulding Ave & 16th St","casual",95
+"695","Evans Ave & 75th St","casual",94
+"696","Shields Ave & 43rd St","casual",94
+"697","South Chicago Ave & 83rd St","casual",94
+"698","Ashland Ave & Garfield Blvd","casual",92
+"699","Torrence Ave & 106th St","casual",91
+"700","Bennett Ave & 79th St","casual",90
+"701","Cicero Ave & Grace St","casual",89
+"702","Lincoln Ave & Balmoral Ave","casual",89
+"703","Major Taylor Trail & 124th St","casual",89
+"704","Summit Ave & 86th St","casual",89
+"705","Damen Ave & 51st St","casual",88
+"706","Eberhart Ave & 131st St","casual",88
+"707","WEST CHI-WATSON","casual",88
+"708","Kilpatrick Ave & Grand Ave","casual",87
+"709","St Louis Ave & 59th St","casual",87
+"710","Phillips Ave & 83rd St","casual",86
+"711","Sacramento Blvd & Addison St","casual",86
+"712","Keeler Ave & Roosevelt Rd","casual",85
+"713","Rhodes Ave & 71st St","casual",85
+"714","Western & 28th - Velasquez Institute Vaccination Site","casual",84
+"715","Bradley Park","casual",83
+"716","Kenosha & Wellington","casual",83
+"717","Rockwell St & Cermak Rd","casual",81
+"718","Avenue O & 134th St","casual",80
+"719","Cicero Ave & Quincy St","casual",80
+"720","Sayre & Diversey","casual",80
+"721","Albany Ave & Belmont Ave","casual",79
+"722","Halsted St & 56th St","casual",79
+"723","Lawndale Ave & 16th St","casual",79
+"724","Plainfield & Irving Park","casual",79
+"725","Wentworth Ave & 104th St","casual",78
+"726","Maryland Ave & 104th St","casual",76
+"727","Tripp Ave & 65th St","casual",75
+"728","Central Park Ave & Ohio St","casual",74
+"729","Western Ave & Grace St","casual",74
+"730","Greenwood Ave & 91st St","casual",73
+"731","Throop St & 52nd St","casual",73
+"732","Kenton Ave & Madison St","casual",72
+"733","Lavergne Ave & Division St","casual",72
+"734","Ashland Ave & 66th St","casual",71
+"735","Commercial Ave & 100th St","casual",71
+"736","Torrence Ave & 126th Pl","casual",71
+"737","Avenue L & 114th St","casual",70
+"738","Elston Ave & Henderson St","casual",70
+"739","Francisco Ave & 47th St","casual",70
+"740","Kildare Ave & Division St","casual",70
+"741","Kostner Ave & Adams St","casual",69
+"742","Michigan Ave & 114th St","casual",69
+"743","MLK Jr Dr & 83rd St","casual",69
+"744","Narragansett & McLean","casual",69
+"745","Roscoe & Harlem","casual",69
+"746","Lincoln Ave & Peterson Ave","casual",67
+"747","St Louis Ave & Norman Bobbins Ave","casual",66
+"748","Harlem Ave & Grace St","casual",65
+"749","Kedzie Ave & 104th St","casual",65
+"750","Laramie Ave & Gladys Ave","casual",65
+"751","Menard Ave & Division St","casual",65
+"752","Sacramento Ave & Pershing Rd","casual",65
+"753","Calumet Ave & 71st St","casual",64
+"754","Long Ave & North Ave","casual",64
+"755","Elizabeth St & 47th St","casual",63
+"756","Halsted St & 69th St","casual",63
+"757","Burnham Greenway & 112th St","casual",62
+"758","Cicero Ave & Flournoy St","casual",61
+"759","Francisco Ave & Montrose Ave","casual",61
+"760","Hegewisch Metra Station","casual",61
+"761","Komensky Ave & 55th St","casual",61
+"762","Artesian Ave & 55th St","casual",59
+"763","Lawler Ave & 50th St","casual",59
+"764","Ada St & 113th St","casual",58
+"765","Lavergne Ave & 46th St","casual",58
+"766","Major Ave & Bloomingdale Ave","casual",57
+"767","Rockwell St & 57th St","casual",57
+"768","Hamlin Ave & 62nd Pl","casual",56
+"769","Kostner Ave & 63rd St","casual",56
+"770","Parkside Ave & Armitage Ave","casual",56
+"771","Racine Ave & 65th St","casual",56
+"772","California Ave & Winona St","casual",55
+"773","N Shore Channel Trail & Argyle St","casual",54
+"774","Maplewood Ave & 59th St","casual",53
+"775","Western Ave & Ardmore Ave","casual",53
+"776","Leamington Ave & Hirsch St","casual",52
+"777","Washtenaw Ave & Peterson Ave","casual",52
+"778","Springfield Ave & 47th St","casual",51
+"779","Lamon Ave & Chicago Ave","casual",50
+"780","Marshfield Ave & 59th St","casual",50
+"781","Monticello Ave & Chicago Ave","casual",50
+"782","Archer Ave & 43rd St","casual",49
+"783","California Ave & Marquette Rd","casual",49
+"784","Woodlawn Ave & 75th St","casual",49
+"785","Richmond St & 59th St","casual",48
+"786","Seeley Ave & Garfield Blvd","casual",48
+"787","Bloomingdale Ave & Harlem Ave","casual",47
+"788","Harding Ave & 26th St","casual",47
+"789","Whipple/Irving Park","casual",47
+"790","Campbell Ave & 51st St","casual",46
+"791","South Chicago Ave & Elliot Ave","casual",46
+"792","Spaulding Ave & 63rd St","casual",46
+"793","Tripp Ave & 15th St","casual",46
+"794","State St & 76th St","casual",45
+"795","Wabash Ave & 83rd St","casual",45
+"796","North Ave & New England Ave","casual",44
+"797","Halsted St & 59th St","casual",43
+"798","Pulaski Rd & 60th St","casual",43
+"799","Shabbona Park","casual",41
+"800","Woodlawn & 103rd - Olive Harvey Vaccination Site","casual",41
+"801","Augusta Blvd & Laramie Ave","casual",40
+"802","Doty Ave & 111th St","casual",40
+"803","Elizabeth St & 59th St","casual",40
+"804","Kildare Ave & Chicago Ave","casual",40
+"805","Central Park & Augusta Blvd","casual",39
+"806","Francisco Ave & Bloomingdale Ave","casual",39
+"807","Kedzie Ave & 45th St","casual",39
+"808","Kenneth Ave & 50th St","casual",39
+"809","Kildare Ave & 55th St","casual",39
+"810","Pulaski & Ann Lurie Pl","casual",39
+"811","La Villita Park (Albany/30th)","casual",38
+"812","N Damen Ave & W Chicago Ave","casual",37
+"813","Racine Ave & 61st St","casual",37
+"814","Damen Ave & 33rd St","casual",35
+"815","Fullerton & Monitor","casual",35
+"816","S Wentworth Ave & W 111th St","casual",34
+"817","Panama Ave & Grace St","casual",33
+"818","California Ave & 36th St","casual",32
+"819","Washtenaw Ave & Polk St","casual",32
+"820","Carpenter St & 63rd St","casual",31
+"821","S Aberdeen St & W 106th St","casual",31
+"822","Kildare Ave & 47th St","casual",30
+"823","Mozart Elementary School","casual",30
+"824","Hoyne Ave & 34th St","casual",29
+"825","Homan Ave & 65th St","casual",27
+"826","Richmond St & Lincoln Ave","casual",27
+"827","Western Ave & 62nd St","casual",27
+"828","California & 16th St","casual",26
+"829","Campbell Ave & Irving Park Rd","casual",26
+"830","S Michigan Ave & E 118th St","casual",26
+"831","Kildare Ave & 26th St","casual",24
+"832","Pulaski Rd & Fullerton Ave","casual",24
+"833","Fairfield Ave & 44th St","casual",23
+"834","Western Ave & Lake St","casual",22
+"835","Hamlin Ave & Fullerton Ave","casual",21
+"836","Monticello Ave & Belmont Ave","casual",20
+"837","Sacramento Blvd & Polk St","casual",20
+"838","Virginia Ave & Catalpa Ave","casual",20
+"839","Albany Ave & Douglas Blvd","casual",19
+"840","Midway Orange Line","casual",19
+"841","Washtenaw Ave & Madison St","casual",19
+"842","Ping Tom Park (East)","casual",18
+"843","Kildare & Cermak","casual",17
+"844","Menard Ave & North Ave","casual",16
+"845","Milwaukee Ave & Haussen Ct","casual",15
+"846","N Clark St & W Elm St","casual",15
+"847","Sacramento Blvd & Fulton Ave","casual",15
+"848","Hyde Park Blvd & 53rd St","casual",14
+"849","Milwaukee Ave & Diversey Ave","casual",14
+"850","Francisco Ave & Hollywood Ave","casual",13
+"851","Lawndale Ave & Diversey Ave","casual",13
+"852","Keystone Ave & North Ave","casual",12
+"853","Olive Harvey College","casual",12
+"854","Sacramento Ave & 25th St","casual",12
+"855","Spaulding Ave & Evergreen Ave","casual",12
+"856","Whipple St & Roosevelt Rd","casual",12
+"857","Kostner Ave & Armitage Ave","casual",11
+"858","Laramie Ave & Fullerton Ave","casual",11
+"859","Rockwell St & 63rd St","casual",11
+"860","Troy Ave & 27th St","casual",11
+"861","Hamlin Ave & Montrose Ave","casual",10
+"862","Mozart St & Jackson Blvd","casual",10
+"863","Albany Ave & 16th St","casual",9
+"864","Cicero Ave & Wrightwood Ave","casual",9
+"865","Grand Ave & North Ave","casual",8
+"866","Hamlin Ave & Grand Ave","casual",8
+"867","Indiana Ave & 133rd St","casual",8
+"868","Steelworkers Park","casual",8
+"869","Walden Pkwy & 103rd St","casual",8
+"870","Western Ave & 92nd Pl","casual",7
+"871","Western Ave & Jarvis Ave","casual",7
+"872","California Ave & 29th St","casual",6
+"873","Jonathan Y Scammon Public School","casual",6
+"874","Keystone Ave & Irving Park Rd","casual",6
+"875","Laramie Ave & Belmont Ave","casual",6
+"876","Lowell Ave & Elston Ave","casual",6
+"877","Milwaukee Ave & Addison St","casual",6
+"878","Robert Fulton Elementary School","casual",6
+"879","Wilton Ave & Diversey Pkwy - Charging","casual",6
+"880","Bissell St & Armitage Ave - Charging","casual",5
+"881","Christiana Ave & Archer Ave","casual",5
+"882","Cicero Ave & Wellington Ave","casual",5
+"883","Hyde Park Blvd & 55th St","casual",5
+"884","Kenton Ave & Palmer St","casual",5
+"885","Pulaski Rd & Armitage Ave","casual",5
+"886","Spaulding Ave & Bryn Mawr Ave","casual",5
+"887","Base - 2132 W Hubbard","casual",4
+"888","Bell Ave & 95th St","casual",4
+"889","Cicero Ave & Roscoe St","casual",4
+"890","DIVVY CASSETTE REPAIR MOBILE STATION","casual",4
+"891","Kenneth Ave & 63rd St","casual",4
+"892","Komensky Ave & 59th St","casual",4
+"893","Mayfield & Roosevelt Rd","casual",4
+"894","Menard Ave & Belmont Ave","casual",4
+"895","Milwaukee Ave & School St","casual",4
+"896","Narragansett Ave & Fullerton Ave","casual",4
+"897","Pulaski & 52nd","casual",4
+"898","Rockwell Ave & Touhy Ave","casual",4
+"899","Sacramento Ave & Greenleaf Ave","casual",4
+"900","Troy St & Jackson Blvd","casual",4
+"901","Washtenaw Ave & Superior St","casual",4
+"902","California Ave & Touhy Ave - NW","casual",3
+"903","Central Ave & George St","casual",3
+"904","Christiana Ave & Belmont Ave","casual",3
+"905","Eli Whitney Public School","casual",3
+"906","Kedzie Ave & 54th St - SE","casual",3
+"907","Lafayette Ave & 95th St","casual",3
+"908","Laramie Ave & Grand Ave","casual",3
+"909","Lincoln Ave & Belmont Ave (Temp)","casual",3
+"910","Menard Ave & Dakin St - midblock","casual",3
+"911","MTV Hubbard St","casual",3
+"912","N Shore Channel Trail & Argyle Ave","casual",3
+"913","Neva Ave & Grand Ave","casual",3
+"914","Prairie Ave & 47th St - midblock","casual",3
+"915","Rutherford Ave & Belmont Ave","casual",3
+"916","Talman Ave & 51st St - midblock","casual",3
+"917","Western Blvd & 49th St","casual",3
+"918","351","casual",2
+"919","532 E 43rd St","casual",2
+"920","63rd & Western Ave - north corner","casual",2
+"921","63rd & Western Ave - south corner","casual",2
+"922","Albany Ave & 63rd St","casual",2
+"923","Central Ave & Corcoran Pl","casual",2
+"924","Cicero Ave & Cortland St - midblock","casual",2
+"925","Cicero Ave & North Ave","casual",2
+"926","Cottage Grove & 86th St","casual",2
+"927","Damen Ave & 47th St","casual",2
+"928","Damen Ave & 74th St","casual",2
+"929","Harold Washington Park","casual",2
+"930","Homewood Ave & Monterey Ave","casual",2
+"931","Karlov Ave & Kamerling Ave","casual",2
+"932","Kedvale Ave & 63rd St","casual",2
+"933","Kedzie Ave & 58th St","casual",2
+"934","Kedzie Ave & 64th St - SW","casual",2
+"935","Kedzie Ave & Archer Ave","casual",2
+"936","Kostner Ave & North Ave","casual",2
+"937","Latrobe Ave & Lake St","casual",2
+"938","McVicker Ave & Grand Ave","casual",2
+"939","Michigan Ave & 110th St","casual",2
+"940","Milwaukee Ave & Waveland Ave","casual",2
+"941","Newcastle Ave & Belmont Ave","casual",2
+"942","Pulaski Rd & 44th St","casual",2
+"943","Racine Ave & 109th Pl","casual",2
+"944","Sawyer Ave & Bryn Mawr Ave - SE","casual",2
+"945","Sawyer Ave & Lawrence Ave","casual",2
+"946","Throop St & 58th St","casual",2
+"947","Western Ave & 105th St","casual",2
+"948","Western Ave & 106th St - East","casual",2
+"949","83rd St (Avalon Park) Metra","casual",1
+"950","Ada St & 79th St","casual",1
+"951","Ada St & 95th St","casual",1
+"952","Albany Ave & 111th St - NW","casual",1
+"953","Ashland Ave & 45th St","casual",1
+"954","Austin Ave & Roscoe St","casual",1
+"955","Austin Ave & Wellington Ave - midblock","casual",1
+"956","Austin Ave & Wrightwood Ave","casual",1
+"957","Austin Blvd & North Ave","casual",1
+"958","Austin Branch Chicago Public Library","casual",1
+"959","Avers Ave & Archer Ave","casual",1
+"960","Avers Ave & Irving Park Rd","casual",1
+"961","California Ave & Devon Ave - NW","casual",1
+"962","California Ave & Ogden Ave","casual",1
+"963","California Ave & Pershing Rd","casual",1
+"964","Central Ave & North Ave","casual",1
+"965","Central Park Ave & Fillmore St","casual",1
+"966","Champlain Ave & 134th St","casual",1
+"967","Chase Ave & Touhy Ave - NE","casual",1
+"968","Chopin Park","casual",1
+"969","Christiana Ave & 55th St","casual",1
+"970","Cottage Grove Ave & 91st St","casual",1
+"971","Cottage Grove Ave & 98th St","casual",1
+"972","Ewing Ave & 99th St","casual",1
+"973","Green St & 103rd St","casual",1
+"974","Halsted St & 102nd St","casual",1
+"975","Harding Ave & 47th St","casual",1
+"976","Harper Ave & 63rd St","casual",1
+"977","Honore St & 87th St - SE","casual",1
+"978","Houston Ave & 91st St","casual",1
+"979","Kedvale Ave & Addison St","casual",1
+"980","Kedvale Ave & Avondale Ave","casual",1
+"981","Kedzie & 103rd St - East","casual",1
+"982","Keeler Ave & Madison St","casual",1
+"983","Kimball Ave & Carmen Ave","casual",1
+"984","Kimbark Ave & 63rd St","casual",1
+"985","Kimbark Ave & 67th St","casual",1
+"986","Kolin Ave & Archer Ave","casual",1
+"987","Legler Regional Library","casual",1
+"988","Linder Ave & Belmont Ave","casual",1
+"989","Mackinaw Ave & 108th St","casual",1
+"990","Marquette Ave & 79th St","casual",1
+"991","Martin Luther King Dr & 44th St","casual",1
+"992","Mason Ave & Roosevelt Rd","casual",1
+"993","McCormick Blvd & Devon Ave","casual",1
+"994","Melvina Ave & Belmont Ave","casual",1
+"995","Menard Ave & Grand Ave","casual",1
+"996","N Narragansett Ave & Grand Ave","casual",1
+"997","Newcastle Ave & Wellington Ave","casual",1
+"998","Newland Ave & Diversey Ave","casual",1
+"999","Normal Ave & 72nd St","casual",1
+"1000","Oglesby Ave & 105th St","casual",1
+"1001","Oleander Ave & Addison St","casual",1
+"1002","Parnell Ave & 119th St","casual",1
+"1003","Pawel Bialowas - Test- PBSC charging station","casual",1
+"1004","Penn Elementary School / KIPP Ascend Middle School","casual",1
+"1005","Pulaski Rd & 41st","casual",1
+"1006","Pullman - Walmart","casual",1
+"1007","Sacramento Ave & Devon Ave","casual",1
+"1008","Sawyer Ave & 111th St","casual",1
+"1009","Spaulding Ave & Foster Ave","casual",1
+"1010","Stewart Ave & 123rd St","casual",1
+"1011","Stony Is Ave & 73rd St","casual",1
+"1012","Strohacker Park","casual",1
+"1013","Wentworth Ave & 79th St","casual",1
+"1014","West Chatham Park","casual",1
+"1015","Western Ave & 79th St","casual",1
+"1016","Wood St & 103rd St","casual",1
+"1017","Wood St & 47th St","casual",1
+"1018","Yates Blvd & Exchange Ave","casual",1
